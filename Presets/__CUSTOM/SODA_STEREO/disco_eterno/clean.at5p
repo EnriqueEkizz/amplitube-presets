@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<Preset Version="2" Format="at5p" GUID="af94565a-9556-47c2-97c2-90d9b1750da0" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="Chain12" DIBeforeAmp="0" />
+    <Input Input="1" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
+    </Tuner>
+    <StompA1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="5478981b-b18a-469f-81e7-a3e228cc9d50" Stomp1="8d7ff76e-9273-46b6-95d5-3d7bd667fff2" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" FullScreen="0" Comp="48.4375" Level="1" />
+        <Slot1 Bypass="1" FullScreen="0" Band100="0.999997" Band200="0.335267" Band400="0.378552" Band800="0.378551" Band1600="0.344706" Band3200="0.316228" Band6400="1.62532" Level="1.27488" />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA1>
+    <StompA2 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA2>
+    <StompStereo Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+    </StompStereo>
+    <StompB1 Bypass="0" Mute="0" OutputVolume="1" Stomp0="27cd0940-620d-401c-abe2-c9d541673cf6" Stomp1="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp2="fc48618d-3dc3-4d3a-9183-fa3362bd277d" Stomp3="7c499158-084f-49b1-9543-f7e9acc122e0" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="1" FullScreen="0" Wah="0.787402" />
+        <Slot1 Bypass="1" FullScreen="0" Drive="1.44875" Level="3.25781" Tone="8" />
+        <Slot2 Bypass="0" FullScreen="0" Drive="8" Level="3" />
+        <Slot3 Bypass="1" FullScreen="0" Filter="0" Volume="5.19375" Drive="0.407812" Tone="10" />
+        <Slot4 />
+        <Slot5 />
+    </StompB1>
+    <StompB2 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB2>
+    <StompB3 Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB3>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="5d235e0d-9fd7-429e-b483-6f815281f3d7">
+        <Amp TopBoostSwitch_VOXCopperAC30="1" Bass_VOXCopperAC30="3.90625" Treble_VOXCopperAC30="7.61719" NormalVol_VOXCopperAC30="6.40625" BrillantVol_VOXCopperAC30="4.53906" VibTremVol_VOXCopperAC30="3.86719" Tone_VOXCopperAC30="4.92188" SpeedTrem_VOXCopperAC30="4.64844" VibTrem_VOXCopperAC30="Vibrato" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="ac08939a-32bf-496c-96ac-5d6c530abf14">
+        <Amp Bright_Roland120="1" Volume_Roland120="5" Distortion_Roland120="0" Reverb_Roland120="0" Treble_Roland120="5.78125" Mid_Roland120="3.94531" Bass_Roland120="2" Speed_Roland120="5" Depth_Roland120="5" VibChr_Roland120="Off" />
+    </AmpB>
+    <AmpC Bypass="0" Mute="0" OutputVolume="1" Model="8fe96936-5178-4950-9b80-d89c32534bad">
+        <Amp Sensitivity_JCM800AT4="1" Presence_JCM800AT4="5" Bass_JCM800AT4="4" Middle_JCM800AT4="5" Treble_JCM800AT4="6" Master_JCM800AT4="5.5" PreAmp_JCM800AT4="5" />
+    </AmpC>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" Stomp0="bf72ebc2-a539-4cd2-9204-2d91e9d573df" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="1" FullScreen="0" Echo="3.4375" Level="5.9375" Repeat="2.17562" Tempo="239" Brown="0" Subdivision="1" BPMMeter="1/16d" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" Stomp0="5f3947b1-6a09-4570-9f9c-1cc53a7fd88f" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="1" FullScreen="0" Int="5.27344" Width="5" Rate="4.6875" Bass="5.07812" Treble="6.05469" BassPad="1" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <LoopFxC Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxC>
+    <CabA Bypass="0" Mute="0" CabModel="3c9256bb-9b75-4dd2-8d49-c9236eedfcb9" SpeakerModel0="492ec44546cb43798742ddd231cf632a" SpeakerModel1="492ec44546cb43798742ddd231cf632a" SpeakerModel2="8b9fc1cef0124429b728f0e822a1329e" SpeakerModel3="8b9fc1cef0124429b728f0e822a1329e" IRDecimation="1">
+        <Cab HighLevel="0.77" RoomType="Hall" RoomMicType="Condenser 87" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="-0.5" Mic1XAxis="0.0256411" Mic0YAxis="-0.894737" Mic1YAxis="0.897436" Mic0Distance="0" Mic1Distance="1" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" CabModel="f7902634-12e9-4a2d-9f9a-bcd22781cdab" SpeakerModel0="f755dce5b3004aae8b07adac9da35705" SpeakerModel1="f755dce5b3004aae8b07adac9da35705" SpeakerModel2="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel3="942153d281fb4b089fc20e07a34e9ca7" IRDecimation="1">
+        <Cab HighLevel="0.77" RoomType="Large Studio" RoomMicType="Condenser 87" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="0.0134551" Mic1XAxis="-0.0285714" Mic0YAxis="-0.213863" Mic1YAxis="0.657143" Mic0Distance="0" Mic1Distance="1" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+    </CabB>
+    <CabC Bypass="0" Mute="0" CabModel="7c0b8ce1-cbb4-4e5b-9973-a572143ddb2b" SpeakerModel0="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel1="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel2="942153d281fb4b089fc20e07a34e9ca7" SpeakerModel3="942153d281fb4b089fc20e07a34e9ca7" IRDecimation="1">
+        <Cab HighLevel="0.77" RoomType="Large Studio" RoomMicType="Condenser 87" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Angle="0" Mic1Angle="0" Mic0XAxis="0.0134551" Mic1XAxis="0.164812" Mic0YAxis="-0.213863" Mic1YAxis="0.416267" Mic0Distance="0" Mic1Distance="0.131415" Mic0Speaker="0" Mic1Speaker="1" GUILoadComplete="0" />
+    </CabC>
+    <Studio Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DI_Level="0.690338" DI_Pan="0.5" DI_Mute="1" DI_Solo="0" DI_Phase="0" DI_PhaseDelay="0" Cab1_Mic1_Level="-13.2697" Cab1_Mic1_Pan="0" Cab1_Mic1_Mute="0" Cab1_Mic1_Solo="0" Cab1_Mic1_Phase="0" Cab1_Mic2_Level="-15.0938" Cab1_Mic2_Pan="0" Cab1_Mic2_Mute="0" Cab1_Mic2_Solo="0" Cab1_Mic2_Phase="0" Cab1_Room_Level="-201" Cab1_Room_Width="50" Cab1_Room_Mute="0" Cab1_Room_Solo="0" Cab1_Room_Phase="0" Cab1_Bus_Level="0" Cab1_Bus_Pan="0.5" Cab1_Bus_Mute="0" Cab1_Bus_Solo="0" Cab1_Bus_Phase="0" Cab2_Mic1_Level="-201" Cab2_Mic1_Pan="0" Cab2_Mic1_Mute="0" Cab2_Mic1_Solo="0" Cab2_Mic1_Phase="0" Cab2_Mic2_Level="0" Cab2_Mic2_Pan="0" Cab2_Mic2_Mute="0" Cab2_Mic2_Solo="0" Cab2_Mic2_Phase="0" Cab2_Room_Level="-201" Cab2_Room_Width="50" Cab2_Room_Mute="0" Cab2_Room_Solo="0" Cab2_Room_Phase="0" Cab2_Bus_Level="-6" Cab2_Bus_Pan="0.5" Cab2_Bus_Mute="0" Cab2_Bus_Solo="0" Cab2_Bus_Phase="0" Cab3_Mic1_Level="-6" Cab3_Mic1_Pan="0" Cab3_Mic1_Mute="0" Cab3_Mic1_Solo="0" Cab3_Mic1_Phase="0" Cab3_Mic2_Level="-6" Cab3_Mic2_Pan="0" Cab3_Mic2_Mute="0" Cab3_Mic2_Solo="0" Cab3_Mic2_Phase="0" Cab3_Room_Level="-40" Cab3_Room_Width="50" Cab3_Room_Mute="0" Cab3_Room_Solo="0" Cab3_Room_Phase="0" Cab3_Bus_Level="-6" Cab3_Bus_Pan="0" Cab3_Bus_Mute="0" Cab3_Bus_Solo="0" Cab3_Bus_Phase="0" Cab1_Leslie_Horn_Level="0" Cab1_Leslie_Horn_Width="100" Cab1_Leslie_Horn_Mute="0" Cab1_Leslie_Horn_Solo="0" Cab1_Leslie_Horn_Phase="0" Cab1_Leslie_Drum_Level="0" Cab1_Leslie_Drum_Width="100" Cab1_Leslie_Drum_Mute="0" Cab1_Leslie_Drum_Solo="0" Cab1_Leslie_Drum_Phase="0" Cab2_Leslie_Horn_Level="0" Cab2_Leslie_Horn_Width="100" Cab2_Leslie_Horn_Mute="0" Cab2_Leslie_Horn_Solo="0" Cab2_Leslie_Horn_Phase="0" Cab2_Leslie_Drum_Level="0" Cab2_Leslie_Drum_Width="100" Cab2_Leslie_Drum_Mute="0" Cab2_Leslie_Drum_Solo="0" Cab2_Leslie_Drum_Phase="0" Cab3_Leslie_Horn_Level="0" Cab3_Leslie_Horn_Width="100" Cab3_Leslie_Horn_Mute="0" Cab3_Leslie_Horn_Solo="0" Cab3_Leslie_Horn_Phase="0" Cab3_Leslie_Drum_Level="0" Cab3_Leslie_Drum_Width="100" Cab3_Leslie_Drum_Mute="0" Cab3_Leslie_Drum_Solo="0" Cab3_Leslie_Drum_Phase="0" />
+    <RackA Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackB>
+    <RackC Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackC>
+    <RackDI Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+    </RackDI>
+    <RackMaster Bypass="0" Mute="0" OutputVolume="1" Stomp0="4468f4f7-0068-4b8b-ac2b-99e13113fe2d" Stomp1="719106ad-5c84-4f94-a9db-eb3264281314" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="1" FullScreen="0" Level="5.70312" Delay="638.298" Feedback="2.53907" BPMSync="1" BPMMeter="1/4" />
+        <Slot1 Bypass="1" FullScreen="0" Output="37.4" PealReduction="17.4531" LimitOnOff="1" />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </RackMaster>
+    <Output Output="1" />
+    <MidiAssignments>
+        <Assignment0 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment1 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment2 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment3 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment4 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment5 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment6 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment7 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment8 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment9 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment10 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment11 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment12 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment13 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment14 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment15 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment16 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment17 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment18 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment19 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment20 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment21 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment22 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment23 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment24 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment25 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment26 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment27 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment28 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment29 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment30 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment31 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment32 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment33 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+        <Assignment34 ControlName="Dime Wah Wah" GUID="27cd0940-620d-401c-abe2-c9d541673cf6" Number="27" Min="0" Max="100" Curve="5" Latch="0" ChainSlot="StompB1" ChainSubSlot="0" MessageType="CC" Parameter="Wah" />
+    </MidiAssignments>
+    <MetaInfo Description="" Style="None" SoundCharacter="None" Instrument="None" Body="None" PickUpPosition="None" Artist="" Band="" Song="" Album="" SongStructureElement="None" KeyWords="" Type="None" />
+</Preset>
